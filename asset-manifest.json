@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/systebweb/static/css/main.ceb96779.chunk.css",
-    "main.js": "/systebweb/static/js/main.bcbd6879.chunk.js",
-    "main.js.map": "/systebweb/static/js/main.bcbd6879.chunk.js.map",
-    "runtime-main.js": "/systebweb/static/js/runtime-main.8b9b6c6d.js",
-    "runtime-main.js.map": "/systebweb/static/js/runtime-main.8b9b6c6d.js.map",
-    "static/css/2.69121389.chunk.css": "/systebweb/static/css/2.69121389.chunk.css",
-    "static/js/2.578dcaa8.chunk.js": "/systebweb/static/js/2.578dcaa8.chunk.js",
-    "static/js/2.578dcaa8.chunk.js.map": "/systebweb/static/js/2.578dcaa8.chunk.js.map",
-    "index.html": "/systebweb/index.html",
-    "precache-manifest.ab6c7ca49237c7241024ea0810757cdb.js": "/systebweb/precache-manifest.ab6c7ca49237c7241024ea0810757cdb.js",
-    "service-worker.js": "/systebweb/service-worker.js",
-    "static/css/2.69121389.chunk.css.map": "/systebweb/static/css/2.69121389.chunk.css.map",
-    "static/css/main.ceb96779.chunk.css.map": "/systebweb/static/css/main.ceb96779.chunk.css.map",
-    "static/js/2.578dcaa8.chunk.js.LICENSE.txt": "/systebweb/static/js/2.578dcaa8.chunk.js.LICENSE.txt"
+    "main.css": "/React_convertation/static/css/main.ceb96779.chunk.css",
+    "main.js": "/React_convertation/static/js/main.bcbd6879.chunk.js",
+    "main.js.map": "/React_convertation/static/js/main.bcbd6879.chunk.js.map",
+    "runtime-main.js": "/React_convertation/static/js/runtime-main.8b9b6c6d.js",
+    "runtime-main.js.map": "/React_convertation/static/js/runtime-main.8b9b6c6d.js.map",
+    "static/css/2.69121389.chunk.css": "/React_convertation/static/css/2.69121389.chunk.css",
+    "static/js/2.578dcaa8.chunk.js": "/React_convertation/static/js/2.578dcaa8.chunk.js",
+    "static/js/2.578dcaa8.chunk.js.map": "/React_convertation/static/js/2.578dcaa8.chunk.js.map",
+    "index.html": "/React_convertation/index.html",
+    "precache-manifest.ab6c7ca49237c7241024ea0810757cdb.js": "/React_convertation/precache-manifest.ab6c7ca49237c7241024ea0810757cdb.js",
+    "service-worker.js": "/React_convertation/service-worker.js",
+    "static/css/2.69121389.chunk.css.map": "/React_convertation/static/css/2.69121389.chunk.css.map",
+    "static/css/main.ceb96779.chunk.css.map": "/React_convertation/static/css/main.ceb96779.chunk.css.map",
+    "static/js/2.578dcaa8.chunk.js.LICENSE.txt": "/React_convertation/static/js/2.578dcaa8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8b9b6c6d.js",
